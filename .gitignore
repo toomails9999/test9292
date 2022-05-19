@@ -1,0 +1,16 @@
+# Nano
+*.save
+
+# Vim
+etc/bash.bashrc
+etc/.bashrc
+.bashrc
+
+# Other
+.DS_Store
+*.apk
+*.exe
+*.zip
+
+src/README.md
+etc/README.md
